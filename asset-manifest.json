@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vaideeswaran.github.io/static/css/main.6e3a1ed2.chunk.css",
+    "main.js": "/vaideeswaran.github.io/static/js/main.00709290.chunk.js",
+    "main.js.map": "/vaideeswaran.github.io/static/js/main.00709290.chunk.js.map",
+    "runtime-main.js": "/vaideeswaran.github.io/static/js/runtime-main.b8b8ce1b.js",
+    "runtime-main.js.map": "/vaideeswaran.github.io/static/js/runtime-main.b8b8ce1b.js.map",
+    "static/js/2.c295bf7e.chunk.js": "/vaideeswaran.github.io/static/js/2.c295bf7e.chunk.js",
+    "static/js/2.c295bf7e.chunk.js.map": "/vaideeswaran.github.io/static/js/2.c295bf7e.chunk.js.map",
+    "index.html": "/vaideeswaran.github.io/index.html",
+    "precache-manifest.db412de21b0deccd11f5cd8f46bf9bae.js": "/vaideeswaran.github.io/precache-manifest.db412de21b0deccd11f5cd8f46bf9bae.js",
+    "service-worker.js": "/vaideeswaran.github.io/service-worker.js",
+    "static/css/main.6e3a1ed2.chunk.css.map": "/vaideeswaran.github.io/static/css/main.6e3a1ed2.chunk.css.map",
+    "static/js/2.c295bf7e.chunk.js.LICENSE.txt": "/vaideeswaran.github.io/static/js/2.c295bf7e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8b8ce1b.js",
+    "static/js/2.c295bf7e.chunk.js",
+    "static/css/main.6e3a1ed2.chunk.css",
+    "static/js/main.00709290.chunk.js"
+  ]
+}
