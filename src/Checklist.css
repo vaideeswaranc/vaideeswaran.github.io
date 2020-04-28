@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=PT+Serif&family=Roboto&family=Source+Sans+Pro&display=swap');
+
+/* Header styles */
+.agentz-progressbar {
+  margin: 0 auto;
+  border: 1px solid #dadce0;
+  color: #202124;
+  border-radius: 8px;
+  box-shadow: none;
+  background-color: #fff;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Roboto', sans-serif;
+  box-flex: 0;
+  flex-grow: 0;
+  flex-shrink: 0;
+  padding: 0 16px;
+  position: relative;
+  width: 100%;
+}
+
+.agentz-progressbar-header {
+  font-size: 18px;
+  line-height: 24px;
+  display: inline-block;
+  padding: 16px 0 12px 0;
+  vertical-align: top;
+}
+
+.agentz-progressbar-description {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 16px;
+  line-height: 80px;
+}
+
+.agentz-progressbar-desc {
+  flex: 1;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  color: #70757a;
+}
+
+.agentz-progressbar-bar {
+  height: 80px;
+  margin-left: 32px;
+  position: relative;
+  text-align: center;
+  width: 80px;
+  color: #202124;
+  height: 80px;
+  line-height: 80px;
+  margin-left: 32px;
+  position: relative;
+  text-align: center;
+  width: 80px;
+  font-size: 24px;
+}
+
+.agentz-progressbar-svg {
+  left: 0;
+  position: absolute;
+  top: 0;
+  fill: transparent;
+  stroke-dasharray: 360;
+  stroke-dashoffset: 301;
+  stroke-width: 1;
+}
+
+.agentz-progress-one {
+  stroke: #1a73e8;
+}
+
+.agentz-progress-two {
+  stroke: #1a73e8;
+}
+
+.agentz-progress-three {
+  stroke: #1a73e8;
+}
+
+.agentz-progress-four {
+  stroke: #1a73e8;
+}
+
+.agentz-progressbar-bar .CircularProgressbar {
+  vertical-align: middle;
+}
+.agentz-progressbar-bar .CircularProgressbar-path {
+  transition: stroke-dashoffset 0.5s ease 0s;
+}
+
+.agentz-progressbar-bar .CircularProgressbar-text {
+  text-anchor: middle;
+  fill: #202124 !important;
+  dominant-baseline: middle;
+}
+
+
+/* Listing Styles */
+.agentz-progress-quicklink {
+  border-bottom: none;
+  margin-bottom: 16px;
+  display: block;
+  margin: 0 -16px;
+  padding: 16px 16px;
+  color: #202124;
+  cursor: pointer;
+  text-decoration: none;
+  border-bottom: 1px solid #dadce0;
+  font-size: 15px;
+}
+
+.agentz-progress-quicklink:hover {
+  text-decoration: underline;
+  text-decoration-color: #202124;
+}
+
+.agentz-progress-quicklink:last-child {
+  border-bottom: none;
+  margin-bottom: 6px;
+}
+
+.agentz-progress-row {
+  align-items: center;
+  color: #202124;
+  display: flex;
+  position: relative;
+  line-height: normal;
+}
+
+.agentz-progress-starticon {
+  color: #202124;
+  fill: #202124;
+  font-size: 24px;
+  padding-right: 16px;
+  font-family: 'Material Icons Extended';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  display: inline-block;
+  word-wrap: normal;
+  direction: ltr;
+  font-feature-settings: 'liga' 1;
+}
+
+.agentz-progress-starticon i {
+  top: 4px;
+  position: relative;
+}
+
+.agentz-progress-linkinfo {
+  flex: 1;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+}
